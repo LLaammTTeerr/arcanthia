@@ -1,0 +1,7 @@
+main
+/.vscode
+makefile
+/obj
+*.pdf
+*.blend
+resources/.DS_Store
